@@ -1,0 +1,29 @@
+{
+  "name": "textrpg",
+  "version": "1.0.0",
+  "description": "Simple Text RPG Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSpheris/TextRPG.git"
+  },
+  "keywords": [
+    "game",
+    "text",
+    "rpg"
+  ],
+  "author": "kkjorri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSpheris/TextRPG/issues"
+  },
+  "homepage": "https://github.com/GSpheris/TextRPG#readme",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.1.6",
+    "readline": "^1.3.0"
+  }
+}
